@@ -15,11 +15,11 @@ Je les ai ensuite enregistré dans un json afin de les exporter vers MongoDB.
 
 ## Interprétation des résultats
 
-![graph](images/graph.PNG)
+![graph](images/graph.png)
 
 Nous pouvons voir sur ce graphique le niveau moyen de pollutiondes 7 villes présentes dans ce jeu de données. Nous pouvons observer une légère hausse de mars à juin qui correspond au confinement.
 
-![barplot](images/barplot.PNG)
+![barplot](images/barplot.png)
 
 Ce graphique permet d'observer le niveau moyen mensuel pour chaque aglomération. Il nous permet aussi d'observer l'augmentation lié au confinement.
 

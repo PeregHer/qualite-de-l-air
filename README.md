@@ -5,7 +5,7 @@ L'objectif est de traiter les données de qualité de l'air en Bretagne sur l'an
 Pour ce faire, nous utiliserons l'API de `data.airbreizh.asso.fr` pour récupérer les données
 
 ## Récolter les données
-L'API nous permet de récupérer l'ensemble des données. J'ai fais le choix de uniquement:
+L'API nous permet de récupérer l'ensemble des données. J'ai fais le choix de garder uniquement:
 - L'aglomération concernée
 - La date du prélèvement
 - Le niveau de pollution
@@ -25,7 +25,7 @@ Ce graphique permet d'observer le niveau moyen mensuel pour chaque aglomération
 
 ![map](images/map.PNG)
 
-Cette map affiche le niveau moyen de chaque aglomération grace aux coordonnées géographiques. Nous pouvons donc observer que Brest et Saint-Malo sont les aglomérations avec le niveau de pollution le plus élevé en moyenne sur l'année 2020.
+Cette carte affiche le niveau moyen de chaque aglomération grace aux coordonnées géographiques. Nous pouvons donc observer que Brest et Saint-Malo sont les aglomérations avec le niveau de pollution le plus élevé en moyenne sur l'année 2020.
 
 ## Conclusion
 Nous pouvons donc affirmer que la COVID-19 et plus particulièrement le confinement a eu un impact négatif sur la qualité de l'air en Bretagne. Ceci peut s'éxpliquer par le fait que les Bretons ont du chauffé leurs logements d'avantage pendant le premier confinement.

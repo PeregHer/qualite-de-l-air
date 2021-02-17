@@ -11,13 +11,13 @@ L'API nous permet de récupérer l'ensemble des données. J'ai fais le choix de 
 - Le niveau de pollution
 - Les coordonnées géographique 
 
-Je les ai ensuite enregistré dans un json afin de les exporter vers MongoDB.
+Je les ai ensuite enregistré dans un json afin de les exporter vers MongoDB Atlas.
 
 ## Interprétation des résultats
 
 ![graph](images/graph.PNG)
 
-Nous pouvons voir sur ce graphique le niveau moyen de pollutiondes 7 villes présentes dans ce jeu de données. Nous pouvons observer une légère hausse de mars à juin qui correspond au confinement.
+Nous pouvons voir sur ce graphique le niveau moyen de pollution des 7 villes présentes dans ce jeu de données. Nous pouvons observer une légère hausse de mars à juin qui correspond au confinement.
 
 ![barplot](images/barplot.PNG)
 
